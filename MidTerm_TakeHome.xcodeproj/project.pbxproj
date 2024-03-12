@@ -7,15 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7FA44DE12B9F94DD00C0BC06 /* Lab3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA44DE02B9F94DD00C0BC06 /* Lab3ViewController.swift */; };
+		7FA44DE32B9FB49100C0BC06 /* CalculateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA44DE22B9FB49100C0BC06 /* CalculateViewController.swift */; };
 		7FB2F2D72B9D98FF00FDE724 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2F2D62B9D98FF00FDE724 /* AppDelegate.swift */; };
 		7FB2F2D92B9D98FF00FDE724 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2F2D82B9D98FF00FDE724 /* SceneDelegate.swift */; };
 		7FB2F2DB2B9D98FF00FDE724 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2F2DA2B9D98FF00FDE724 /* ViewController.swift */; };
 		7FB2F2DE2B9D98FF00FDE724 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FB2F2DC2B9D98FF00FDE724 /* Main.storyboard */; };
 		7FB2F2E02B9D990000FDE724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FB2F2DF2B9D990000FDE724 /* Assets.xcassets */; };
 		7FB2F2E32B9D990000FDE724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FB2F2E12B9D990000FDE724 /* LaunchScreen.storyboard */; };
+		7FE9C12F2B9F1CCA0015429B /* Lab2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE9C12E2B9F1CCA0015429B /* Lab2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7FA44DE02B9F94DD00C0BC06 /* Lab3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lab3ViewController.swift; sourceTree = "<group>"; };
+		7FA44DE22B9FB49100C0BC06 /* CalculateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateViewController.swift; sourceTree = "<group>"; };
 		7FB2F2D32B9D98FF00FDE724 /* MidTerm_TakeHome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MidTerm_TakeHome.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FB2F2D62B9D98FF00FDE724 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FB2F2D82B9D98FF00FDE724 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +29,7 @@
 		7FB2F2DF2B9D990000FDE724 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7FB2F2E22B9D990000FDE724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FB2F2E42B9D990000FDE724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FE9C12E2B9F1CCA0015429B /* Lab2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +65,10 @@
 				7FB2F2D62B9D98FF00FDE724 /* AppDelegate.swift */,
 				7FB2F2D82B9D98FF00FDE724 /* SceneDelegate.swift */,
 				7FB2F2DA2B9D98FF00FDE724 /* ViewController.swift */,
+				7FA44DE22B9FB49100C0BC06 /* CalculateViewController.swift */,
 				7FB2F2DC2B9D98FF00FDE724 /* Main.storyboard */,
+				7FE9C12E2B9F1CCA0015429B /* Lab2ViewController.swift */,
+				7FA44DE02B9F94DD00C0BC06 /* Lab3ViewController.swift */,
 				7FB2F2DF2B9D990000FDE724 /* Assets.xcassets */,
 				7FB2F2E12B9D990000FDE724 /* LaunchScreen.storyboard */,
 				7FB2F2E42B9D990000FDE724 /* Info.plist */,
@@ -140,7 +149,10 @@
 			files = (
 				7FB2F2DB2B9D98FF00FDE724 /* ViewController.swift in Sources */,
 				7FB2F2D72B9D98FF00FDE724 /* AppDelegate.swift in Sources */,
+				7FA44DE12B9F94DD00C0BC06 /* Lab3ViewController.swift in Sources */,
 				7FB2F2D92B9D98FF00FDE724 /* SceneDelegate.swift in Sources */,
+				7FE9C12F2B9F1CCA0015429B /* Lab2ViewController.swift in Sources */,
+				7FA44DE32B9FB49100C0BC06 /* CalculateViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
